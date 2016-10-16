@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: d0bd74693f755db48b0b6103f5aa2027
+timeCreated: 1466128980
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bird4
+    100004: Bird4.Skeleton
+    100006: Eye(D).L
+    100008: Eye(D).R
+    100010: Eye.Follow.L
+    100012: Eye.Follow.L_end
+    100014: Eye.Follow.R
+    100016: Eye.Follow.R_end
+    100018: Eye.L
+    100020: Eye.L_end
+    100022: Eye.R
+    100024: Eye.R_end
+    100026: Eyes.Move
+    100028: Root
+    100030: Spine
+    100032: Wing(D).L
+    100034: Wing(D).R
+    100036: Wing,L
+    100038: Wing,L_end
+    100040: Wing.R
+    100042: Wing.R_end
+    100044: WingMove.L
+    100046: WingMove.L_end
+    100048: WingMove.R
+    100050: WingMove.R_end
+    100052: WingsFlap
+    400000: //RootNode
+    400002: Bird4
+    400004: Bird4.Skeleton
+    400006: Eye(D).L
+    400008: Eye(D).R
+    400010: Eye.Follow.L
+    400012: Eye.Follow.L_end
+    400014: Eye.Follow.R
+    400016: Eye.Follow.R_end
+    400018: Eye.L
+    400020: Eye.L_end
+    400022: Eye.R
+    400024: Eye.R_end
+    400026: Eyes.Move
+    400028: Root
+    400030: Spine
+    400032: Wing(D).L
+    400034: Wing(D).R
+    400036: Wing,L
+    400038: Wing,L_end
+    400040: Wing.R
+    400042: Wing.R_end
+    400044: WingMove.L
+    400046: WingMove.L_end
+    400048: WingMove.R
+    400050: WingMove.R_end
+    400052: WingsFlap
+    2300000: Eye(D).L
+    2300002: Eye(D).R
+    2300004: Wing(D).L
+    2300006: Wing(D).R
+    3300000: Eye(D).L
+    3300002: Eye(D).R
+    3300004: Wing(D).L
+    3300006: Wing(D).R
+    4300000: Eye(D).L
+    4300002: Eye(D).R
+    4300004: Wing(D).L
+    4300006: Wing(D).R
+    4300008: Bird4
+    7400000: Flap
+    9500000: //RootNode
+    13700000: Bird4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Flap
+      takeName: Bird4.Skeleton|Bird3.SkeletonAction
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bird4
+        weight: 1
+      - path: Bird4.Skeleton
+        weight: 1
+      - path: Bird4.Skeleton/Root
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eye.L
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eye.L/Eye(D).L
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eye.L/Eye.L_end
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eye.R
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eye.R/Eye(D).R
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eye.R/Eye.R_end
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eyes.Move
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eyes.Move/Eye.Follow.L
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eyes.Move/Eye.Follow.L/Eye.Follow.L_end
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eyes.Move/Eye.Follow.R
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Eyes.Move/Eye.Follow.R/Eye.Follow.R_end
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Wing,L
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Wing,L/Wing(D).L
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Wing,L/Wing,L_end
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Wing.R
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Wing.R/Wing(D).R
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/Wing.R/Wing.R_end
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/WingsFlap
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/WingsFlap/WingMove.L
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/WingsFlap/WingMove.L/WingMove.L_end
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/WingsFlap/WingMove.R
+        weight: 1
+      - path: Bird4.Skeleton/Root/Spine/WingsFlap/WingMove.R/WingMove.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

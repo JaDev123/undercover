@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6588c245d8aa4df47bb868179a2c8761
+timeCreated: 1472420832
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sound: {instanceID: 0}
+  - starText: {instanceID: 0}
+  - ally: {instanceID: 0}
+  - ally2: {instanceID: 0}
+  - ally3: {instanceID: 0}
+  - exp: {fileID: 100622, guid: d4f7343141b8eed4eb3c51e0bbf7eef6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
